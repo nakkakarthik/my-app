@@ -4,7 +4,7 @@ node {
 	   git 'https://github.com/nakkakarthik/my-app'
    }
 	stage('compile-package'){
-		sh 'mvn package'
+		sh 'From jenkins file'
 			}
 
 }
