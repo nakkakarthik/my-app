@@ -4,7 +4,7 @@ node {
 	   git 'https://github.com/nakkakarthik/my-app'
    }
 	stage('compile-package'){
-		sh 'echo "From jenkins file namaste"'
+		sh 'echo "From jenkins file namaste testing webhook"'
 			}
 
 }
