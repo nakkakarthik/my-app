@@ -11,6 +11,8 @@ node {
 
 */
 
+node {
+	
 def validateOregPass() {
 
     boolean passwordmatch = false
@@ -39,5 +41,6 @@ def validateOregPass() {
         }
 
     }
+}
 }
 
